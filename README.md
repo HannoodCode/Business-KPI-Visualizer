@@ -12,7 +12,7 @@ Before setting up the project, ensure you have:
 
 > **Note:** The database connection is optional for testing the UI. If you don't have a PostgreSQL setup, you can still run `python app.py` and interact with the dashboard.
 
-## 🤍 Technologies Used
+##  Technologies Used
 - **Python** (Backend logic)
 - **PostgreSQL** (Database for sales data)
 - **SQLAlchemy** (ORM for database interaction)
