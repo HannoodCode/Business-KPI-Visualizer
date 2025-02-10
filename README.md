@@ -19,7 +19,7 @@ Before setting up the project, ensure you have:
 - **Dash & Plotly** (For interactive visualizations)
 - **Pandas** (Data processing & aggregation)
 - **Dash Bootstrap Components** (Enhanced UI/UX)
-- **AI Integration** (Trend analysis & anomaly detection)
+- **AI Integration using langchain** (Trend analysis & anomaly detection)
 
 ## 🚀 Features
 ✅ **Interactive Data Filtering**: Users can select multiple order statuses using a checklist for dynamic KPI analysis.  
