@@ -60,11 +60,6 @@ Before setting up the project, ensure you have:
 6. **Open in Browser**:  
    Go to `http://127.0.0.1:8050/` to access the dashboard.
 
-## 📊 Example Visualization
-(Include a screenshot of the dashboard output here)  
-
-![Dashboard Screenshot](assets/dashboard_example.png)
-
 ## ✨ Future Enhancements
 - Improve UI design for better user experience
 - Add more AI-driven insights and forecasting
